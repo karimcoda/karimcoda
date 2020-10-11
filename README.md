@@ -1,5 +1,5 @@
 ### Hi there, I'm Karim 👋
-I'm a Front End Developer studying at <strong>Self Educcation</strong> as a Senior.
+I'm a Front End Developer studying at <strong>Self education</strong> as a Senior.
 
 ## My Values
 🧠 Thoughtful & Inclusive Development <br/>
@@ -7,7 +7,10 @@ I'm a Front End Developer studying at <strong>Self Educcation</strong> as a Seni
 💡 Mindset of Learning & Curiosity <br/>
 🙌 Teamwork & Communication
 
-
+## Connect with Me
+- [Instagram](https://www.instagram.com/karimcoda/) <br/>
+- [Youtube](https://www.youtube.com/channel/UC4K13feyvHML3JU5G6slgYw) <br/>
+- [Facebook](https://www.facebook.com/karim.coda99/) 
 <!--
 **karimcoda/karimcoda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
