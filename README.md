@@ -15,8 +15,8 @@ I'm a Front End Developer studying at <strong>Self education</strong> as a Senio
 
 ## Let's Build Something Together
 Feel free to reach out if you're looking for a developer, have a question, or just want to connect.
+[Instagram](https://www.instagram.com/karimcoda/)
 
-karimcoda2@gmail.com
 <!--
 **karimcoda/karimcoda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
