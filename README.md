@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there, I'm Karim 👋
+I'm a Front End Developer studying at <strong>Self Educcation</strong> as a Senior.
+
+## My Values
+🧠 Thoughtful & Inclusive Development <br/>
+🖤 Authentic Expression <br/>
+💡 Mindset of Learning & Curiosity <br/>
+🙌 Teamwork & Communication
+
 
 <!--
 **karimcoda/karimcoda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
