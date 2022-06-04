@@ -1,12 +1,8 @@
 
 ### Hi there, I'm Karim 👋
-I'm a Front End Developer studying at <strong>Self education</strong> as a Senior.
+I'm a Front End Developer studying at <strong>Self education</strong> .
 
-## My Values
-🧠 Thoughtful & Inclusive Development <br/>
-🖤 Authentic Expression <br/>
-💡 Mindset of Learning & Curiosity <br/>
-🙌 Teamwork & Communication
+
 
 ## Connect with Me
 - [Instagram](https://www.instagram.com/karimcoda/) <br/>
